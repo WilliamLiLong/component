@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.jsyh.common.server.configuration.AuthorizationAutoConfiguration
